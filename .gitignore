@@ -1,0 +1,17 @@
+# Node modules (if you ever add JS tooling)
+node_modules/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+/dist/
+/build/
